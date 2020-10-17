@@ -10058,7 +10058,8 @@ p.lead {
     height: 100vh;
   }
   #sideNav .navbar-brand {
-    display: flex;
+    /* commented to center the profile picture */
+    /* display: flex; */
     margin: auto auto 0;
     padding: 0.5rem;
   }
@@ -10157,5 +10158,6 @@ div#particles-js{
   position: absolute;
   text-align: center;
   top: 30%;
-  width: 100%;
+  /* Changed to center the profile picture, original value is 100% */
+  width: 88%;
 }
