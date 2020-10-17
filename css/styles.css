@@ -10150,3 +10150,12 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+#particles-js{
+  height: 100vh;
+}
+.heading-particles{
+  position: absolute;
+  text-align: center;
+  top: 30%;
+  width: 100%;
+}
